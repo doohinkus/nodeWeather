@@ -1,5 +1,5 @@
 # Node Js Command Line Weather App
-## Requires Node JS
+## Requires Node JS & API key for [Open Weather](https://openweathermap.org)
 
 * Create "secret.js" in same directory as "app.js"
 * Paste the following into "secret.js":
